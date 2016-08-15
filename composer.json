@@ -1,13 +1,13 @@
 {
-    "name": "ikhlasservice/product",
-    "description": "Yii2 for customer management system.",
+    "name": "ikhlasservice/yii2-product",
+    "description": "Yii2 for product management system.",
     "type": "yii2-extension",
     "keywords": ["yii2","extension"],
     "license": "GPL-3.0",
     "minimum-stability": "stable",
     "support": {
-        "source": "https://github.com/ikhlasservice/product.git",
-        "issues": "https://github.com/ikhlasservice/product/issues"
+        "source": "https://github.com/ikhlasservice/yii2-product.git",
+        "issues": "https://github.com/ikhlasservice/yii2-product/issues"
     },
     "authors": [
         {
