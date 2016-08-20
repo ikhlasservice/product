@@ -1,6 +1,6 @@
 <?php
 
-namespace backend\modules\product\models;
+namespace ikhlas\product\models;
 
 use Yii;
 

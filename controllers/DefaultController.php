@@ -1,10 +1,10 @@
 <?php
 
-namespace backend\modules\product\controllers;
+namespace ikhlas\product\controllers;
 
 use Yii;
-use backend\modules\product\models\Product;
-use backend\modules\product\models\ProductSearch;
+use ikhlas\product\models\Product;
+use ikhlas\product\models\ProductSearch;
 use yii\web\Controller;
 use yii\web\NotFoundHttpException;
 use yii\filters\VerbFilter;

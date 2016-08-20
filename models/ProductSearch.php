@@ -1,14 +1,14 @@
 <?php
 
-namespace backend\modules\product\models;
+namespace ikhlas\product\models;
 
 use Yii;
 use yii\base\Model;
 use yii\data\ActiveDataProvider;
-use backend\modules\product\models\Product;
+use ikhlas\product\models\Product;
 
 /**
- * ProductSearch represents the model behind the search form about `backend\modules\product\models\Product`.
+ * ProductSearch represents the model behind the search form about `ikhlas\product\models\Product`.
  */
 class ProductSearch extends Product
 {
